@@ -1,0 +1,2 @@
+ssh_key_path: "~/Aws_oregon.pem"
+web_root: /var/www/html
